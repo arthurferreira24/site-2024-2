@@ -48,12 +48,12 @@
         font-size: 20px;
     }
     
-    .escola-imagem{
+    .Brasil{
         width: 25%;
     }
     
-    .escola{
-        background-image: linear-gradient(#424E61,#16CFF8);
+    .Brasil{
+        background-image: linear-gradient(#424E61,#000000);
         color:white;
         display: flex;
         justify-content: center;
@@ -61,10 +61,10 @@
         padding: 24px 0;
     }
     
-    .escola-div-conteudo{
+    .Brasil{
         width: 35%;
     }
-    .escola-titulo{
+    .Brasil{
         padding: 24px 0;
     }
     
