@@ -10,7 +10,7 @@
 
 .cabeçalho {
     background-image: url(https://www.remessaonline.com.br/blog/wp-content/uploads/2023/05/moedas-mais-valorizadas-do-mundo.jpg.optimal.jpg);
-    color: rgb(19, 4, 4);
+    color: rgb(7, 151, 115);
     display:flex;
     justify-content: space-around;
     padding: 24px 0;
@@ -18,7 +18,7 @@
 
 .cabeçalho-lista-item{
     display: inline-block;
-margin: 0 36px;
-padding: 64px 0;
-font-size:  50px;
+margin: 0 86px;
+padding: 94px 0;
+font-size:  70px;
 }
