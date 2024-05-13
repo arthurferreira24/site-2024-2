@@ -22,3 +22,7 @@ margin: 0 64px;
 padding: 54px 0;
 font-size:  50px;
 }
+
+nav a:hover {
+    color:whitesmoke
+}
